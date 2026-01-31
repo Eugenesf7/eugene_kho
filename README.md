@@ -1,2 +1,2 @@
 # eugene_kh
-Eugene Kholodniak homeworks repo 
+Eugene Kh homeworks repo 
